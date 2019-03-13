@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://m.eascs.com:7002/easd/m/CounterSaler.ipa</string>
+					<string>https://m.eascs.com/easd/m/CounterSaler.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
